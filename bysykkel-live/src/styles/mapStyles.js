@@ -67,5 +67,6 @@ export default [
                 "color": "#7dcdcd"
             }
         ]
-    }
+    },
+   
 ];
